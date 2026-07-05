@@ -1,0 +1,6 @@
+{
+  "name": "Reconstrutor de Documentos MERE",
+  "description": "Reconstrutor didático médico de alta fidelidade e clinicamente seguro (MERE v4.1.50) com suporte a análise de OCR, preflight, extração de átomos P0/P1 e semáforo clínico didático.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
